@@ -135,7 +135,9 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: -7354543972994379625, guid: cac75eb9cab267c45a1b26ee81090ee4, type: 2}
+  - {fileID: 7258928096842388815, guid: 20d371551a6759f49ac9f57f9f32f40b, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -618,7 +620,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MetaForensic
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\Users\aamin\MetaForensic_\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
